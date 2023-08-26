@@ -1,0 +1,7 @@
+*
+!*/
+!*.java
+!*.txt
+!.vscode/settings.json
+!.gitignore
+test.java
